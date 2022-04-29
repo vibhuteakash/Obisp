@@ -1,2 +1,2 @@
-# Obisp
+# Oibsp
 Oasis Infobyte Task
